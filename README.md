@@ -1,4 +1,4 @@
-Comptar Gols del FC Barcelona a la Champions League de 2014-2015 mentre esperem a la sisena.Desenvolupa un programa a Java per celebrar la sisena Champions League del FC Barcelona . L'objectiu és comptar el nombre total de gols que el Barça va marcar durant la temporada de la Champions League del 2014-2015.
+Comptar Gols del FC Barcelona a la Champions League de 2014-2015 mentre esperem a la sisena.Desenvolupa un programa a Java per celebrar la sisena Champions League del FC Barcelona . L'objectiu és comptar el nombre total de gols que el Barça va marcar en els partits que has preguntat anteriorment durant la temporada de la Champions League del 2014-2015.
 
 Per resoldre aquest problema, heu de seguir aquests passos:
 
