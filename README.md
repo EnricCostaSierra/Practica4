@@ -11,7 +11,9 @@ Al final, mostra el resultat final indicant el nombre total de gols que el FC Ba
 Desenvolupa el programa a Java seguint aquests passos i celebra la sisena Champions League del FC Barcelona.
 
 Exemples:
-Entrada(Partits Jugats) ,  
+
+Entrada(Partits Jugats)
+
 Sortida(Gols marcats en els partits jugats)
 
 Entrada = 12
@@ -20,8 +22,10 @@ Sortida = 28
 
 ----------
 Entrada = 6
+
 Sortida = 12
 
 ----------
 Entrada = 8
+
 Sortida = 17
